@@ -30,6 +30,7 @@
 
  
  **build.gradle**이 프로젝트에서 사용된 주요 Gradle 의존성 목록입니다.
+ 외 다른 연결들은 **resources** 폴더에 저장
 
 
  
